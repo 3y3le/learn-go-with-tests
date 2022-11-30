@@ -1,5 +1,10 @@
 package main
 
+import (
+	"bytes"
+	"fmt"
+)
+
 const englishPrefix = "Hello,"
 const spanishHelloPrefix = "Hola,"
 const frenchHelloPrefix = "Bonjour,"
@@ -21,4 +26,11 @@ func greetingPrefix(language string) (prefix string) {
 		prefix = englishPrefix
 	}
 	return
+}
+
+func Greet(writer *bytes.Buffer, name string) {
+	_, err := fmt.Fprintf(writer, "Hello, %s", name)
+	if err != nil {
+		return
+	}
 }

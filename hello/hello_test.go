@@ -1,6 +1,9 @@
 package main
 
-import "testing"
+import (
+	"bytes"
+	"testing"
+)
 
 // t 是你在测试框架中的 hook（钩子）
 func TestHello(t *testing.T) {
@@ -22,5 +25,17 @@ func TestHello(t *testing.T) {
 func assertCorrectMessage(t *testing.T, got string, expect string) {
 	if got != expect {
 		t.Errorf("got '%q' expect '%q'", got, expect)
+	}
+}
+
+func TestGreet(t *testing.T) {
+	buffer := bytes.Buffer{}
+	Greet(&buffer, "Chris")
+
+	got := buffer.String()
+	want := "Hello, Chris"
+
+	if got != want {
+		t.Errorf("got '%s' want '%s'", got, want)
 	}
 }
