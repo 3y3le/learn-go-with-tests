@@ -14,6 +14,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[1779]找到最近的有相同 X 或 Y 坐标的点.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[1779]找到最近的有相同 X 或 Y 坐标的点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1779" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[1779]找到最近的有相同 X 或 Y 坐标的点.go" />
+              <option name="titleSlug" value="find-nearest-point-that-has-the-same-x-or-y-coordinate" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[1]两数之和.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[1]两数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[1]两数之和.go" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[2]两数相加.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[2]两数相加.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[2]两数相加.go" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[3]无重复字符的最长子串.go">
           <value>
             <LeetcodeEditor>
@@ -33,6 +66,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[4]寻找两个正序数组的中位数.go" />
               <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[51]N 皇后.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[51]N 皇后.md" />
+              <option name="frontendQuestionId" value="leetcode.cn51" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[51]N 皇后.go" />
+              <option name="titleSlug" value="n-queens" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[895]最大频率栈.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[895]最大频率栈.md" />
+              <option name="frontendQuestionId" value="leetcode.cn895" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[895]最大频率栈.go" />
+              <option name="titleSlug" value="maximum-frequency-stack" />
             </LeetcodeEditor>
           </value>
         </entry>
